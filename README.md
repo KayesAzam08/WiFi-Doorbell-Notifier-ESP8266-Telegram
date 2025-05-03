@@ -31,6 +31,10 @@ Replace the following in the code:
 - `YOUR_BOT_TOKEN`
 - `YOUR_CHAT_ID`
 
+## 📽️ Watch the Tutorial Video
+
+[Click here to watch the full tutorial on Google Drive](https://drive.google.com/file/d/1K3VR4drmvHugjKzzicICa-BxwIWHI2Cu/view?usp=drive_link)
+
 ## Output Example
 When the button is pressed, your Telegram will receive:
 ```
